@@ -12,7 +12,9 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "strict": false,
-    "noImplicitAny": false
+    "noImplicitAny": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
   },
   "include": ["src"]
 }
